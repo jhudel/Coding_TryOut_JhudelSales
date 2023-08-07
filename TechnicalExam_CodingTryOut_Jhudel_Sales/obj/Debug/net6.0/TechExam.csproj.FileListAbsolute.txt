@@ -1,0 +1,129 @@
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.csproj.AssemblyReference.cache
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.AssemblyInfoInputs.cache
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.AssemblyInfo.cs
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.csproj.CoreCompileInputs.cache
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\appsettings.json
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\TechExam.exe
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\TechExam.deps.json
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\TechExam.runtimeconfig.json
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\TechExam.dll
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\TechExam.pdb
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhudel\downloads\TechExam\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\scopedcss\bundle\TechExam.styles.css
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.csproj.CopyComplete
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.dll
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\refint\TechExam.dll
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.pdb
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\TechExam.genruntimeconfig.cache
+C:\Users\jhudel\downloads\TechExam\obj\Debug\net6.0\ref\TechExam.dll
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\TextEncodingApp\angular.json
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\TextEncodingApp\package-lock.json
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\TextEncodingApp\package.json
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\TextEncodingApp\tsconfig.app.json
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\TextEncodingApp\tsconfig.json
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\TextEncodingApp\tsconfig.spec.json
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\TextEncodingApp\proxy.conf.json
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jhudel\Downloads\TechExam\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\appsettings.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TextEncodingApp\angular.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TextEncodingApp\package-lock.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TextEncodingApp\package.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TextEncodingApp\proxy.conf.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TextEncodingApp\tsconfig.app.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TextEncodingApp\tsconfig.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TextEncodingApp\tsconfig.spec.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TechExam.exe
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TechExam.deps.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TechExam.runtimeconfig.json
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TechExam.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\TechExam.pdb
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.csproj.AssemblyReference.cache
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.AssemblyInfoInputs.cache
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.AssemblyInfo.cs
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.csproj.CoreCompileInputs.cache
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\scopedcss\bundle\TechExam.styles.css
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.csproj.CopyComplete
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\refint\TechExam.dll
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.pdb
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\TechExam.genruntimeconfig.cache
+C:\Users\jhudel\Downloads\TechExam - Copy\obj\Debug\net6.0\ref\TechExam.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\appsettings.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TextEncodingApp\angular.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TextEncodingApp\package-lock.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TextEncodingApp\package.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TextEncodingApp\proxy.conf.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TextEncodingApp\tsconfig.app.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TextEncodingApp\tsconfig.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TextEncodingApp\tsconfig.spec.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TechExam.exe
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TechExam.deps.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TechExam.runtimeconfig.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TechExam.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\TechExam.pdb
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.csproj.AssemblyReference.cache
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.AssemblyInfoInputs.cache
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.AssemblyInfo.cs
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.csproj.CoreCompileInputs.cache
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\scopedcss\bundle\TechExam.styles.css
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.csproj.CopyComplete
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\refint\TechExam.dll
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.pdb
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\TechExam.genruntimeconfig.cache
+C:\Users\jhudel\Downloads\TechExam - Copy - Copy\obj\Debug\net6.0\ref\TechExam.dll
